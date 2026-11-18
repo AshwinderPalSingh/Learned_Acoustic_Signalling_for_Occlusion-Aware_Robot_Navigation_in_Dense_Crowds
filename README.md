@@ -1,7 +1,6 @@
 # Learned Acoustic Signalling for Occlusion-Aware Robot Navigation in Dense Crowds
 
-Supporting material for **Paper 1: the five-page reinforcement-learning lab report,
-version 2, 22 October 2026**, by Ashwinder Pal Singh. Read
+Supporting material for **Paper 1: the five-page reinforcement-learning lab report, by Ashwinder Pal Singh. Read
 [the exact report PDF](report/paper1_lab_report.pdf).
 
 The robot learns whether to beep while navigating. Beep-only and beep-plus-listening
